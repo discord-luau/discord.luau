@@ -1,0 +1,11 @@
+{
+  "languageMode": "strict",
+  "lint": {
+    "*": false
+  },
+  "aliases": {
+    "std": "./std",
+    "deps": "./deps",
+    "discordluau": "./packages"
+  }
+}
