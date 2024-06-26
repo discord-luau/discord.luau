@@ -1,5 +1,5 @@
 local net = require("@lune/net")
-local instanceof = require("@modules/luau-polyfill/instanceof")
+local instanceof = require("@deps/polyfill/instanceof")
 local formData = require("formData")
 
 
